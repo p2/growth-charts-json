@@ -1,0 +1,28 @@
+{
+  "gender" : 2,
+  "sourceName" : "CDC",
+  "source" : "http:\/\/www.cdc.gov\/growthcharts\/data\/set1\/chart06.pdf",
+  "name" : "Girls 0 - 36 months",
+  "sourceAcronym" : "CDC",
+  "areas" : [
+    {
+      "axes" : {
+        "x" : {
+          "to" : 38,
+          "dataType" : "age",
+          "unit" : "age.month",
+          "from" : 0
+        },
+        "y" : {
+          "to" : 42,
+          "dataType" : "bodylength",
+          "unit" : "length.inch",
+          "from" : 16
+        }
+      },
+      "type" : "plot",
+      "rect" : "{{0.1762762,0.1195716},{0.6949781,0.7397546}}",
+      "statsSource" : "CDC-infants.2000"
+    }
+  ]
+}

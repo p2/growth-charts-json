@@ -1,0 +1,28 @@
+{
+  "gender" : 1,
+  "sourceName" : "CDC",
+  "source" : "http:\/\/www.cdc.gov\/growthcharts\/data\/set1\/chart15.pdf",
+  "name" : "Boys 2 - 20 years",
+  "sourceAcronym" : "CDC",
+  "areas" : [
+    {
+      "axes" : {
+        "x" : {
+          "to" : 22,
+          "dataType" : "age",
+          "unit" : "age.year",
+          "from" : 2
+        },
+        "y" : {
+          "to" : 36,
+          "dataType" : "bmi",
+          "unit" : "bmi.kilogram-per-square-meter",
+          "from" : 10
+        }
+      },
+      "type" : "plot",
+      "rect" : "{{0.148183,0.1191206},{0.7144631,0.7372839}}",
+      "statsSource" : "CDC.2000"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "gender" : 1,
+  "sourceName" : "CDC",
+  "source" : "http:\/\/www.cdc.gov\/growthcharts\/data\/set1\/chart13.pdf",
+  "name" : "Boys 2 - 8 years",
+  "sourceAcronym" : "CDC",
+  "areas" : [
+    {
+      "axes" : {
+        "x" : {
+          "to" : 48,
+          "dataType" : "bodylength",
+          "unit" : "length.inch",
+          "from" : 31
+        },
+        "y" : {
+          "to" : 78,
+          "dataType" : "bodyweight",
+          "unit" : "weight.pound",
+          "from" : 15
+        }
+      },
+      "type" : "plot",
+      "rect" : "{{0.1941222,0.1587557},{0.6411857,0.7311662}}",
+      "statsSource" : "CDC.2000"
+    }
+  ]
+}

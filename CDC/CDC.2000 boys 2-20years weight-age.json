@@ -1,0 +1,28 @@
+{
+  "gender" : 1,
+  "sourceName" : "CDC",
+  "source" : "http:\/\/www.cdc.gov\/growthcharts\/data\/set1\/chart03.pdf",
+  "name" : "Boys 2 - 20 years",
+  "sourceAcronym" : "CDC",
+  "areas" : [
+    {
+      "axes" : {
+        "x" : {
+          "to" : 22,
+          "dataType" : "age",
+          "unit" : "age.year",
+          "from" : 2
+        },
+        "y" : {
+          "to" : 240,
+          "dataType" : "bodyweight",
+          "unit" : "weight.pound",
+          "from" : 10
+        }
+      },
+      "type" : "plot",
+      "rect" : "{{0.1729522,0.1243446},{0.7046126,0.7617235}}",
+      "statsSource" : "CDC.2000"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "gender" : 2,
+  "sourceName" : "CDC",
+  "source" : "http:\/\/www.cdc.gov\/growthcharts\/data\/set1\/chart14.pdf",
+  "name" : "Girls 2 - 8 years",
+  "sourceAcronym" : "CDC",
+  "areas" : [
+    {
+      "axes" : {
+        "x" : {
+          "to" : 48,
+          "dataType" : "bodylength",
+          "unit" : "length.inch",
+          "from" : 31
+        },
+        "y" : {
+          "to" : 78,
+          "dataType" : "bodyweight",
+          "unit" : "weight.pound",
+          "from" : 15
+        }
+      },
+      "type" : "plot",
+      "rect" : "{{0.1938911,0.1585434},{0.640983,0.729577}}",
+      "statsSource" : "CDC.2000"
+    }
+  ]
+}

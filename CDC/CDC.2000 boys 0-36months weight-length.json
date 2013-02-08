@@ -1,0 +1,28 @@
+{
+  "gender" : 1,
+  "sourceName" : "CDC",
+  "source" : "http:\/\/www.cdc.gov\/growthcharts\/data\/set1\/chart11.pdf",
+  "name" : "Boys 0 - 36 months",
+  "sourceAcronym" : "CDC",
+  "areas" : [
+    {
+      "axes" : {
+        "x" : {
+          "to" : 42,
+          "dataType" : "bodylength",
+          "unit" : "length.inch",
+          "from" : 18
+        },
+        "y" : {
+          "to" : 52,
+          "dataType" : "bodyweight",
+          "unit" : "weight.pound",
+          "from" : 0
+        }
+      },
+      "type" : "plot",
+      "rect" : "{{0.1712008,0.1522239},{0.6594454,0.7253094}}",
+      "statsSource" : "CDC-infants.2000"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "gender" : 2,
+  "sourceName" : "CDC",
+  "source" : "http:\/\/www.cdc.gov\/growthcharts\/data\/set1\/chart16.pdf",
+  "name" : "Girls 2 - 20 years",
+  "sourceAcronym" : "CDC",
+  "areas" : [
+    {
+      "axes" : {
+        "x" : {
+          "to" : 21,
+          "dataType" : "age",
+          "unit" : "age.year",
+          "from" : 2
+        },
+        "y" : {
+          "to" : 36,
+          "dataType" : "bmi",
+          "unit" : "bmi.kilogram-per-square-meter",
+          "from" : 10
+        }
+      },
+      "type" : "plot",
+      "rect" : "{{0.1480112,0.1183242},{0.716129,0.7386112}}",
+      "statsSource" : "CDC.2000"
+    }
+  ]
+}

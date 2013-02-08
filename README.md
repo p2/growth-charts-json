@@ -1,11 +1,7 @@
 Drawable Growth Charts
 ======================
 
-
-What is this?
--------------
-
-This repository aims to provide machine-readable definitions of areas that define data areas on growth chart files (usually PDF files). With this information at hand, software is able to overlay data points and other data on growth chart files and present it to the user.
+This repository aims to provide machine-readable definitions for growth chart files (usually PDF files). With this information at hand, software is able to overlay data points and other data on growth chart files and present it to the user.
 
 
 License

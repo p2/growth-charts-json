@@ -58,7 +58,7 @@ Areas are the most interesting part on the chart and there are several subtypes 
   A description of the area rectangle, in the form `{{x,y},{width,height}}`. The numbers are relative to the parent area, which can be a page of the chart or a parent area. The origin {0,0} is at the **bottom left**. The parent has **width and height of 1**.
 
 * `page` _number_
-  The page of the document on which the area lives. If left out applies to all pages.
+  The page of the document on which the area lives. If left out applies to all pages. Obviously only applies to root-level areas.
 
 * `outline` _string_ (optional)  
   A path that follows the actual area outline, as a series of points, in the coordinate system of the area itself. It can be used, for example, to guide which parts of the area can be filled with a color, as opposed to just filling the rectangular shape defined in `rect`. At least 3 points are required, formatted like `{x,y};{x,y};...`.

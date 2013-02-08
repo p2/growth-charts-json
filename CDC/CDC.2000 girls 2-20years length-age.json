@@ -1,0 +1,28 @@
+{
+  "gender" : 2,
+  "sourceName" : "CDC",
+  "source" : "http:\/\/www.cdc.gov\/growthcharts\/data\/set1\/chart08.pdf",
+  "name" : "Girls 2 - 20 years",
+  "sourceAcronym" : "CDC",
+  "areas" : [
+    {
+      "axes" : {
+        "x" : {
+          "to" : 21,
+          "dataType" : "age",
+          "unit" : "age.year",
+          "from" : 2
+        },
+        "y" : {
+          "to" : 80,
+          "dataType" : "bodylength",
+          "unit" : "length.inch",
+          "from" : 28
+        }
+      },
+      "type" : "plot",
+      "rect" : "{{0.1809629,0.1245766},{0.6866463,0.7655645}}",
+      "statsSource" : "CDC.2000"
+    }
+  ]
+}
