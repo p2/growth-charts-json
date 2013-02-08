@@ -1,0 +1,252 @@
+{
+  "gender" : 2,
+  "source" : "http:\/\/www.cdc.gov\/growthcharts\/data\/who\/grchrt_girls_24hdcirc-l4w_9210.pdf",
+  "areas" : [
+    {
+      "fontSize" : 12,
+      "dataType" : "patient.record_id",
+      "type" : "data",
+      "rect" : "{{0.798,0.921},{0.1849739,0.018}}",
+      "page" : 1
+    },
+    {
+      "dataType" : "patient.name",
+      "type" : "data",
+      "rect" : "{{0.639,0.9415},{0.3439738,0.018}}",
+      "page" : 1
+    },
+    {
+      "areas" : [
+        {
+          "type" : "measurementset",
+          "areas" : [
+            {
+              "type" : "data",
+              "dataType" : "date",
+              "rect" : "{{0,0},{0.142,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "age",
+              "rect" : "{{0.1456,0},{0.11,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodyweight",
+              "rect" : "{{0.259,0},{0.131,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodylength",
+              "rect" : "{{0.393,0},{0.127,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "headcircumference",
+              "rect" : "{{0.523,0},{0.172,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "comment",
+              "rect" : "{{0.698,0},{0.302,1}}"
+            }
+          ],
+          "rect" : "{{0,0.8152179},{1,0.185}}"
+        },
+        {
+          "type" : "measurementset",
+          "areas" : [
+            {
+              "type" : "data",
+              "dataType" : "date",
+              "rect" : "{{0,0},{0.142,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "age",
+              "rect" : "{{0.1456,0},{0.11,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodyweight",
+              "rect" : "{{0.259,0},{0.131,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodylength",
+              "rect" : "{{0.393,0},{0.127,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "headcircumference",
+              "rect" : "{{0.523,0},{0.172,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "comment",
+              "rect" : "{{0.698,0},{0.302,1}}"
+            }
+          ],
+          "rect" : "{{0,0.6075165},{1,0.185}}"
+        },
+        {
+          "type" : "measurementset",
+          "areas" : [
+            {
+              "type" : "data",
+              "dataType" : "date",
+              "rect" : "{{0,0},{0.142,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "age",
+              "rect" : "{{0.1456,0},{0.11,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodyweight",
+              "rect" : "{{0.259,0},{0.131,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodylength",
+              "rect" : "{{0.393,0},{0.127,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "headcircumference",
+              "rect" : "{{0.523,0},{0.172,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "comment",
+              "rect" : "{{0.698,0},{0.302,1}}"
+            }
+          ],
+          "rect" : "{{0,0.4040994},{1,0.18}}"
+        },
+        {
+          "type" : "measurementset",
+          "areas" : [
+            {
+              "type" : "data",
+              "dataType" : "date",
+              "rect" : "{{0,0},{0.142,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "age",
+              "rect" : "{{0.1456,0},{0.11,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodyweight",
+              "rect" : "{{0.259,0},{0.131,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodylength",
+              "rect" : "{{0.393,0},{0.127,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "headcircumference",
+              "rect" : "{{0.523,0},{0.172,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "comment",
+              "rect" : "{{0.698,0},{0.302,1}}"
+            }
+          ],
+          "rect" : "{{0,0.2029667},{1,0.18}}"
+        },
+        {
+          "type" : "measurementset",
+          "areas" : [
+            {
+              "type" : "data",
+              "dataType" : "date",
+              "rect" : "{{0,0},{0.142,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "age",
+              "rect" : "{{0.1456,0},{0.11,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodyweight",
+              "rect" : "{{0.259,0},{0.131,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodylength",
+              "rect" : "{{0.393,0},{0.127,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "headcircumference",
+              "rect" : "{{0.523,0},{0.172,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "comment",
+              "rect" : "{{0.698,0},{0.302,1}}"
+            }
+          ],
+          "rect" : "{{0,0},{1,0.185}}"
+        }
+      ],
+      "type" : "measurementsetcollection",
+      "rect" : "{{0.357183,0.08936869},{0.5348588,0.066}}",
+      "page" : 1
+    },
+    {
+      "statsSource" : "WHO.2006",
+      "outline" : "{0.000000,-0.043000};{1.000000,-0.043000};{1.000000,0.453000};{0.000000,1.040000}",
+      "axes" : {
+        "x" : {
+          "to" : 24,
+          "dataType" : "age",
+          "unit" : "age.month",
+          "from" : 0
+        },
+        "y" : {
+          "to" : 53,
+          "dataType" : "headcircumference",
+          "unit" : "length.centimeter",
+          "from" : 30
+        }
+      },
+      "type" : "plot",
+      "rect" : "{{0.1797598,0.4466877},{0.6263174,0.4218123}}",
+      "page" : 1
+    },
+    {
+      "statsSource" : "WHO.2006",
+      "outline" : "{0.000000,0.450000};{1.000000,-0.016700};{1.000000,0.842000};{0.279000,0.842000};{0.279000,0.000000};{0.000000,0.000000}",
+      "axes" : {
+        "x" : {
+          "to" : 110.5,
+          "dataType" : "bodylength",
+          "unit" : "length.centimeter",
+          "from" : 45
+        },
+        "y" : {
+          "to" : 24,
+          "dataType" : "bodyweight",
+          "unit" : "weight.kilogram",
+          "from" : 0
+        }
+      },
+      "type" : "plot",
+      "rect" : "{{0.1796565,0.1293363},{0.6265153,0.5282655}}",
+      "page" : 1
+    }
+  ],
+  "sourceName" : "World Health Organization",
+  "sourceAcronym" : "WHO",
+  "name" : "Girls, 0 - 24 months",
+  "description" : "Girls 0-24 Months (Head for Age, Weight for Length)"
+}

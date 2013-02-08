@@ -1,0 +1,324 @@
+{
+  "gender" : 1,
+  "source" : "http:\/\/www.cdc.gov\/growthcharts\/data\/who\/grchrt_boys_24lw_9210.pdf",
+  "areas" : [
+    {
+      "fontSize" : 12,
+      "dataType" : "patient.record_id",
+      "type" : "data",
+      "rect" : "{{0.797,0.928},{0.195111,0.018}}",
+      "page" : 1
+    },
+    {
+      "dataType" : "patient.name",
+      "type" : "data",
+      "rect" : "{{0.638,0.948},{0.354,0.018}}",
+      "page" : 1
+    },
+    {
+      "areas" : [
+        {
+          "type" : "measurementset",
+          "areas" : [
+            {
+              "type" : "data",
+              "dataType" : "date",
+              "rect" : "{{0,0},{0.124928,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "age",
+              "rect" : "{{0.128,0},{0.111856,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodyweight",
+              "rect" : "{{0.243392,0},{0.134,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodylength",
+              "rect" : "{{0.3813548,0},{0.128,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "headcircumference",
+              "rect" : "{{0.5123549,0},{0.175,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "comment",
+              "rect" : "{{0.689,0},{0.311,1}}"
+            }
+          ],
+          "rect" : "{{0,0.8676},{1,0.13}}"
+        },
+        {
+          "type" : "measurementset",
+          "areas" : [
+            {
+              "type" : "data",
+              "dataType" : "date",
+              "rect" : "{{0,0},{0.124928,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "age",
+              "rect" : "{{0.128,0},{0.111856,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodyweight",
+              "rect" : "{{0.243392,0},{0.134,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodylength",
+              "rect" : "{{0.3813548,0},{0.128,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "headcircumference",
+              "rect" : "{{0.5123549,0},{0.175,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "comment",
+              "rect" : "{{0.689,0},{0.311,1}}"
+            }
+          ],
+          "rect" : "{{0,0.723199},{1,0.13}}"
+        },
+        {
+          "type" : "measurementset",
+          "areas" : [
+            {
+              "type" : "data",
+              "dataType" : "date",
+              "rect" : "{{0,0},{0.124928,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "age",
+              "rect" : "{{0.128,0},{0.111856,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodyweight",
+              "rect" : "{{0.243392,0},{0.134,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodylength",
+              "rect" : "{{0.3813548,0},{0.128,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "headcircumference",
+              "rect" : "{{0.5123549,0},{0.175,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "comment",
+              "rect" : "{{0.689,0},{0.311,1}}"
+            }
+          ],
+          "rect" : "{{0,0.5790182},{1,0.13}}"
+        },
+        {
+          "type" : "measurementset",
+          "areas" : [
+            {
+              "type" : "data",
+              "dataType" : "date",
+              "rect" : "{{0,0},{0.124928,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "age",
+              "rect" : "{{0.128,0},{0.111856,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodyweight",
+              "rect" : "{{0.243392,0},{0.134,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodylength",
+              "rect" : "{{0.3813548,0},{0.128,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "headcircumference",
+              "rect" : "{{0.5123549,0},{0.175,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "comment",
+              "rect" : "{{0.689,0},{0.311,1}}"
+            }
+          ],
+          "rect" : "{{0,0.4326},{1,0.13}}"
+        },
+        {
+          "type" : "measurementset",
+          "areas" : [
+            {
+              "type" : "data",
+              "dataType" : "date",
+              "rect" : "{{0,0},{0.124928,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "age",
+              "rect" : "{{0.128,0},{0.112392,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodyweight",
+              "rect" : "{{0.243392,0},{0.134,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodylength",
+              "rect" : "{{0.3813548,0},{0.128,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "headcircumference",
+              "rect" : "{{0.5123549,0},{0.175,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "comment",
+              "rect" : "{{0.689,0},{0.311,1}}"
+            }
+          ],
+          "rect" : "{{0,0.2892},{1,0.13}}"
+        },
+        {
+          "type" : "measurementset",
+          "areas" : [
+            {
+              "type" : "data",
+              "dataType" : "date",
+              "rect" : "{{0,0},{0.124928,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "age",
+              "rect" : "{{0.128,0},{0.111856,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodyweight",
+              "rect" : "{{0.243392,0},{0.134,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodylength",
+              "rect" : "{{0.3813548,0},{0.128,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "headcircumference",
+              "rect" : "{{0.5123549,0},{0.175,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "comment",
+              "rect" : "{{0.689,0},{0.311,1}}"
+            }
+          ],
+          "rect" : "{{0,0.1413808},{1,0.13}}"
+        },
+        {
+          "type" : "measurementset",
+          "areas" : [
+            {
+              "type" : "data",
+              "dataType" : "date",
+              "rect" : "{{0,0},{0.124928,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "age",
+              "rect" : "{{0.128536,0},{0.11132,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodyweight",
+              "rect" : "{{0.243392,0},{0.134,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodylength",
+              "rect" : "{{0.3813548,0},{0.128,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "headcircumference",
+              "rect" : "{{0.5123549,0},{0.175,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "comment",
+              "rect" : "{{0.689,0},{0.311,1}}"
+            }
+          ],
+          "rect" : "{{0,0},{1,0.13}}"
+        }
+      ],
+      "type" : "measurementsetcollection",
+      "rect" : "{{0.366867,0.083777},{0.537845,0.093}}",
+      "page" : 1
+    },
+    {
+      "statsSource" : "WHO.2006",
+      "outline" : "{0.000000,-0.046000};{1.000000,-0.046000};{1.000000,0.400000};{0.000000,1.000000}",
+      "axes" : {
+        "x" : {
+          "to" : 24,
+          "dataType" : "age",
+          "unit" : "age.month",
+          "from" : 0
+        },
+        "y" : {
+          "to" : 100,
+          "dataType" : "bodylength",
+          "unit" : "length.centimeter",
+          "from" : 35
+        }
+      },
+      "type" : "plot",
+      "rect" : "{{0.1915854,0.383554},{0.6258366,0.4918737}}",
+      "page" : 1
+    },
+    {
+      "statsSource" : "WHO.2006",
+      "outline" : "{0.000000,0.562500};{1.000000,0.075000};{1.000000,0.794000};{0.280000,0.794000};{0.280000,1.037500};{0.000000,1.037500}",
+      "axes" : {
+        "x" : {
+          "to" : 24,
+          "dataType" : "age",
+          "unit" : "age.month",
+          "from" : 0
+        },
+        "y" : {
+          "to" : 18,
+          "dataType" : "bodyweight",
+          "unit" : "weight.kilogram",
+          "from" : 2
+        }
+      },
+      "type" : "plot",
+      "rect" : "{{0.1915435,0.1186479},{0.626,0.6054909}}",
+      "page" : 1
+    }
+  ],
+  "sourceName" : "World Health Organization",
+  "sourceAcronym" : "WHO",
+  "name" : "Boys, 0 - 24 months",
+  "description" : "Boys 0-24 Months (Length for Age, Weight for Age)"
+}
