@@ -69,8 +69,14 @@ A data type unsurprisingly describes the type of data that is being represented.
 * **patient.record_id** For the child's EHR id
 
 
+Acknowledgements
+----------------
+
+This work was supported by a fellowship from the [Swiss National Science Foundation][snf].
+
 
 [documentation]: Format.md
 [helper]: https://github.com/p2/growth-charts-helper
 [who]: http://www.who.int/childgrowth/standards/en/
 [cdc]: http://www.cdc.gov/growthcharts/cdc_charts.htm
+[snf]: http://www.snf.ch/
