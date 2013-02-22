@@ -1,9 +1,6 @@
 {
   "gender" : 1,
-  "sourceName" : "CDC",
   "source" : "http:\/\/www.cdc.gov\/growthcharts\/data\/set1\/chart05.pdf",
-  "name" : "Boys 0 - 36 months",
-  "sourceAcronym" : "CDC",
   "areas" : [
     {
       "axes" : {
@@ -24,5 +21,9 @@
       "rect" : "{{0.1749021,0.1195716},{0.6942144,0.7398873}}",
       "statsSource" : "CDC-infants.2000"
     }
-  ]
+  ],
+  "sourceName" : "CDC",
+  "sourceAcronym" : "CDC",
+  "name" : "Boys 0 - 36 months",
+  "description" : "Boys 0 - 36 months (length for age)"
 }

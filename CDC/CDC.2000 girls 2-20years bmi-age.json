@@ -1,9 +1,6 @@
 {
   "gender" : 2,
-  "sourceName" : "CDC",
   "source" : "http:\/\/www.cdc.gov\/growthcharts\/data\/set1\/chart16.pdf",
-  "name" : "Girls 2 - 20 years",
-  "sourceAcronym" : "CDC",
   "areas" : [
     {
       "axes" : {
@@ -24,5 +21,9 @@
       "rect" : "{{0.1480112,0.1183242},{0.716129,0.7386112}}",
       "statsSource" : "CDC.2000"
     }
-  ]
+  ],
+  "sourceName" : "CDC",
+  "sourceAcronym" : "CDC",
+  "name" : "Girls 2 - 20 years",
+  "description" : "Girls 2 - 20 years (BMI for age)"
 }

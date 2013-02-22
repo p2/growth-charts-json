@@ -1,9 +1,6 @@
 {
   "gender" : 1,
-  "sourceName" : "CDC",
   "source" : "http:\/\/www.cdc.gov\/growthcharts\/data\/set1\/chart13.pdf",
-  "name" : "Boys 2 - 8 years",
-  "sourceAcronym" : "CDC",
   "areas" : [
     {
       "axes" : {
@@ -24,5 +21,9 @@
       "rect" : "{{0.1941222,0.1587557},{0.6411857,0.7311662}}",
       "statsSource" : "CDC.2000"
     }
-  ]
+  ],
+  "sourceName" : "CDC",
+  "sourceAcronym" : "CDC",
+  "name" : "Boys 2 - 8 years",
+  "description" : "Boys 2 - 8 years (weight for height)"
 }

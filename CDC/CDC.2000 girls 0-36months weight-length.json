@@ -1,9 +1,6 @@
 {
   "gender" : 2,
-  "sourceName" : "CDC",
   "source" : "http:\/\/www.cdc.gov\/growthcharts\/data\/set1\/chart12.pdf",
-  "name" : "Girls 0 - 36 months",
-  "sourceAcronym" : "CDC",
   "areas" : [
     {
       "axes" : {
@@ -24,5 +21,9 @@
       "rect" : "{{0.1715305,0.1518891},{0.6579127,0.7242993}}",
       "statsSource" : "CDC-infants.2000"
     }
-  ]
+  ],
+  "sourceName" : "CDC",
+  "sourceAcronym" : "CDC",
+  "name" : "Girls 0 - 36 months",
+  "description" : "Girls 0 - 36 months (weight for length)"
 }

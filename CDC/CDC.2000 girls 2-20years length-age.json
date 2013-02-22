@@ -1,9 +1,6 @@
 {
   "gender" : 2,
-  "sourceName" : "CDC",
   "source" : "http:\/\/www.cdc.gov\/growthcharts\/data\/set1\/chart08.pdf",
-  "name" : "Girls 2 - 20 years",
-  "sourceAcronym" : "CDC",
   "areas" : [
     {
       "axes" : {
@@ -24,5 +21,9 @@
       "rect" : "{{0.1809629,0.1245766},{0.6866463,0.7655645}}",
       "statsSource" : "CDC.2000"
     }
-  ]
+  ],
+  "sourceName" : "CDC",
+  "sourceAcronym" : "CDC",
+  "name" : "Girls 2 - 20 years",
+  "description" : "Girls 2 - 20 years (height for age)"
 }

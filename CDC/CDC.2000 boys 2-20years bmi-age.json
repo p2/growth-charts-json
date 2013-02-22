@@ -1,9 +1,6 @@
 {
   "gender" : 1,
-  "sourceName" : "CDC",
   "source" : "http:\/\/www.cdc.gov\/growthcharts\/data\/set1\/chart15.pdf",
-  "name" : "Boys 2 - 20 years",
-  "sourceAcronym" : "CDC",
   "areas" : [
     {
       "axes" : {
@@ -24,5 +21,9 @@
       "rect" : "{{0.148183,0.1191206},{0.7144631,0.7372839}}",
       "statsSource" : "CDC.2000"
     }
-  ]
+  ],
+  "sourceName" : "CDC",
+  "sourceAcronym" : "CDC",
+  "name" : "Boys 2 - 20 years",
+  "description" : "Boys 2 - 20 years (BMI for age)"
 }
