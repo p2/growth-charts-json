@@ -1,0 +1,30 @@
+[
+	{
+		"name": "WHO",
+		"title": "WHO",
+		"packages": [
+			{
+				"name": "WHO.2006",
+				"title": "WHO 2006 (0 - 24 months)"
+			},
+			{
+				"name": "WHO.2007",
+				"title": "WHO 2007 (5 - 19 years)"
+			}
+		]
+	},
+	{
+		"name": "CDC",
+		"title": "WHO",
+		"packages": [
+			{
+				"name": "CDC-infants.2000",
+				"title": "CDC 2000 (infants)"
+			},
+			{
+				"name": "CDC.2000",
+				"title": "CDC 2000 (2 - 20 years)"
+			}
+		]
+	}
+]
