@@ -26,6 +26,7 @@ Statistics Sources
 There are a lot of sources for percentile statistics out there and it is desireable to identify them easily. This can easily be done with a simple acronym and by specifying the year. Here are the currently used acronyms for the statistics present in this repository:
 
 * **WHO.2006** For the [WHO] charts for kids 0 - 24 months of age from the year 2006
+* **WHO.2007** For the [WHO] charts for kids 5 - 10/19 years of age from the year 2007
 * **CDC.2000** For the [CDC] charts for kids 2 - 20 years of age from the year 2000
 * **CDC-infants.2000** For the [CDC] charts for kids 0 - 36 months of age from the year 2000
 
@@ -35,23 +36,27 @@ Units
 
 These are the units that should be used on charts, the bold one being the preferred one. They should be represented in the JS object notation form, e.g. **length.meter**.
 
-* length
-  * **centimeter**
-  * meter
-  * feet
-  * inch
+### length
 
-* weight
-  * **kilogram**
-  * pound
+* **centimeter**
+* meter
+* inch
+* feet
 
-* headcircumference
-  * **centimeter**
+### weight
+* **kilogram**
+* pound
 
-* age
-  * **month**
-  * year
-  * day
+### headcircumference
+* **centimeter**
+
+### age
+* **month**
+* year
+* day
+
+### bmi
+* **kilogram-per-square-meter**
 
 
 Data Types
