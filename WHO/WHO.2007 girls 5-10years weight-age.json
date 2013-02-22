@@ -1,0 +1,29 @@
+{
+  "gender" : 2,
+  "source" : "http:\/\/www.who.int\/growthref\/cht_wfa_girls_perc_5_10years.pdf",
+  "areas" : [
+    {
+      "axes" : {
+        "x" : {
+          "to" : 10,
+          "dataType" : "age",
+          "unit" : "age.year",
+          "from" : 5
+        },
+        "y" : {
+          "to" : 47,
+          "dataType" : "bodyweight",
+          "unit" : "weight.kilogram",
+          "from" : 13
+        }
+      },
+      "type" : "plot",
+      "rect" : "{{0.134907,0.1466402},{0.7062547,0.66592}}",
+      "statsSource" : "WHO.2007"
+    }
+  ],
+  "sourceName" : "World Health Organization",
+  "sourceAcronym" : "WHO",
+  "name" : "Girls 5 - 10 years",
+  "description" : "Girls 5 - 10 years (weight for age)"
+}

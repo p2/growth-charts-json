@@ -1,0 +1,29 @@
+{
+  "gender" : 2,
+  "source" : "http:\/\/www.who.int\/growthref\/cht_hfa_girls_perc_5_19years.pdf",
+  "areas" : [
+    {
+      "axes" : {
+        "x" : {
+          "to" : 19,
+          "dataType" : "age",
+          "unit" : "age.year",
+          "from" : 5
+        },
+        "y" : {
+          "to" : 180,
+          "dataType" : "bodylength",
+          "unit" : "length.centimeter",
+          "from" : 95
+        }
+      },
+      "type" : "plot",
+      "rect" : "{{0.1347682,0.1455516},{0.7074362,0.6658667}}",
+      "statsSource" : "WHO.2007"
+    }
+  ],
+  "sourceName" : "World Health Organization",
+  "sourceAcronym" : "WHO",
+  "name" : "Girls 5 - 19 years",
+  "description" : "Girls 5 - 19 years (height for age)"
+}

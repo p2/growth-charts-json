@@ -1,0 +1,29 @@
+{
+  "gender" : 2,
+  "source" : "http:\/\/www.who.int\/growthref\/cht_bmifa_girls_perc_5_19years.pdf",
+  "areas" : [
+    {
+      "axes" : {
+        "x" : {
+          "to" : 19,
+          "dataType" : "age",
+          "unit" : "age.year",
+          "from" : 5
+        },
+        "y" : {
+          "to" : 29,
+          "dataType" : "bmi",
+          "unit" : "bmi.kilogram-per-square-meter",
+          "from" : 12
+        }
+      },
+      "type" : "plot",
+      "rect" : "{{0.1345311,0.1463904},{0.7075152,0.6472399}}",
+      "statsSource" : "WHO.2007"
+    }
+  ],
+  "sourceName" : "World Health Organization",
+  "sourceAcronym" : "WHO",
+  "name" : "Girls 5 - 19 years",
+  "description" : "Girls 5 - 19 years (BMI for age)"
+}

@@ -319,6 +319,6 @@
   ],
   "sourceName" : "World Health Organization",
   "sourceAcronym" : "WHO",
-  "name" : "Boys, 0 - 24 months",
-  "description" : "Boys 0-24 Months (Length for Age, Weight for Age)"
+  "name" : "Boys 0 - 24 months",
+  "description" : "Boys 0 - 24 months (length for age, weight for age)"
 }

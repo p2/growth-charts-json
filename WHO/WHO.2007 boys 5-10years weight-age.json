@@ -1,0 +1,29 @@
+{
+  "gender" : 1,
+  "source" : "http:\/\/www.who.int\/growthref\/cht_wfa_boys_perc_5_10years.pdf",
+  "areas" : [
+    {
+      "axes" : {
+        "x" : {
+          "to" : 10,
+          "dataType" : "age",
+          "unit" : "age.year",
+          "from" : 5
+        },
+        "y" : {
+          "to" : 45,
+          "dataType" : "bodyweight",
+          "unit" : "weight.kilogram",
+          "from" : 13
+        }
+      },
+      "type" : "plot",
+      "rect" : "{{0.1352016,0.1468957},{0.7059216,0.665569}}",
+      "statsSource" : "WHO.2007"
+    }
+  ],
+  "sourceName" : "World Health Organization",
+  "sourceAcronym" : "WHO",
+  "name" : "Boys 5 - 10 years",
+  "description" : "Boys 5 - 10 years (weight for age)"
+}
