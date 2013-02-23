@@ -15,11 +15,11 @@
 	},
 	{
 		"name": "CDC",
-		"title": "WHO",
+		"title": "CDC",
 		"packages": [
 			{
 				"name": "CDC-infants.2000",
-				"title": "CDC 2000 (infants)"
+				"title": "CDC 2000 (0 - 36 months)"
 			},
 			{
 				"name": "CDC.2000",
