@@ -34,7 +34,7 @@ There are a lot of sources for percentile statistics out there and it is desirea
 Units
 =====
 
-These are the units that should be used on charts, the bold one being the preferred one. They should be represented in the JS object notation form, e.g. **length.meter**.
+These are the units that should be used on charts, the bold one being the preferred one. They should be represented in the JS object notation form, e.g. **length.centimeter**.
 
 ### length
 
@@ -46,9 +46,6 @@ These are the units that should be used on charts, the bold one being the prefer
 ### weight
 * **kilogram**
 * pound
-
-### headcircumference
-* **centimeter**
 
 ### age
 * **month**
@@ -64,11 +61,11 @@ Data Types
 
 A data type unsurprisingly describes the type of data that is being represented. These should be used:
 
-* **bodylength** for body length/height
-* **bodyweight** for body weight
-* **headcircumference** for head circumference
-* **bmi** for the Body Mass Index (BMI)
-* **age** for the age of the child; this can be relative, e.g. when used in the context of a measurement
+* **bodylength** for body length/height, uses **length** units
+* **bodyweight** for body weight, uses **weight** units
+* **headcircumference** for head circumference, uses **length** units
+* **bmi** for the Body Mass Index (BMI), uses **bmi** unit
+* **age** for the age of the child; this can be relative, e.g. when used in the context of a measurement. Uses **age** unit
 * **date** usually used in context, e.g. in a measurement-set it means the date of the measurement
 * **patient.name** For the child's name (this can be used to designate data areas)
 * **patient.record_id** For the child's EHR id
