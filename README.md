@@ -23,12 +23,14 @@ An experimental Mac App that reads and writes these formats [is available here][
 Statistics Sources
 ------------------
 
-There are a lot of sources for percentile statistics out there and it is desireable to identify them easily. This can easily be done with a simple acronym and by specifying the year. Here are the currently used acronyms for the statistics present in this repository:
+There are a lot of sources for percentile statistics out there and it is desireable to identify them easily. This can be done with a simple acronym and by specifying the year. Here are the currently used acronyms for the statistics present in this repository:
 
-* **WHO.2006** For the [WHO] charts for kids 0 - 24 months of age from the year 2006
-* **WHO.2007** For the [WHO] charts for kids 5 - 10/19 years of age from the year 2007
-* **CDC.2000** For the [CDC] charts for kids 2 - 20 years of age from the year 2000
-* **CDC-infants.2000** For the [CDC] charts for kids 0 - 36 months of age from the year 2000
+* **WHO.2006**  
+  For the [WHO] charts for [kids 0 - 5 years][who-kid] of age from the year 2006 and for [kids 5 - 10/19 years][who-teen] of age from the year 2007. The 2007 WHO sources supplement the 2006 sources so there's no need to separate these into two acronyms.
+* **CDC-infants.2000**  
+  For the [CDC] charts for kids 0 - 36 months of age from the year 2000
+* **CDC.2000**  
+  For the [CDC] charts for kids 2 - 20 years of age from the year 2000. The two CDC sources overlap at age 2 to 3 with differing data so they have to be separated.
 
 
 Units
@@ -79,6 +81,8 @@ This work was supported by a fellowship from the [Swiss National Science Foundat
 
 [documentation]: Format.md
 [helper]: https://github.com/p2/growth-charts-helper
-[who]: http://www.who.int/childgrowth/standards/en/
+[WHO]: http://www.who.int/
+[who-kid]: http://www.who.int/childgrowth/standards/en/
+[who-teen]: http://www.who.int/growthref/en/
 [cdc]: http://www.cdc.gov/growthcharts/cdc_charts.htm
 [snf]: http://www.snf.ch/

@@ -2,28 +2,34 @@
 	{
 		"name": "WHO",
 		"title": "WHO",
+		"description": "",
 		"packages": [
 			{
-				"name": "WHO.2006",
-				"title": "WHO 2006 (0 - 24 months)"
+				"name": "WHO.2006-infants",
+				"title": "WHO 2006 (0 - 24 months)",
+				"prefixes": ["WHO.2006"]
 			},
 			{
-				"name": "WHO.2007",
-				"title": "WHO 2007 (5 - 19 years)"
+				"name": "WHO.2007-school",
+				"title": "WHO 2007 (5 - 19 years)",
+				"prefixes": ["WHO.2007 5-10years", "WHO.2007 5-19years"]
 			}
 		]
 	},
 	{
 		"name": "CDC",
 		"title": "CDC",
+		"description": "",
 		"packages": [
 			{
-				"name": "CDC-infants.2000",
-				"title": "CDC 2000 (0 - 36 months)"
+				"name": "CDC.2000-infants",
+				"title": "CDC 2000 (0 - 36 months)",
+				"prefixes": ["CDC.2000 0-36months"]
 			},
 			{
 				"name": "CDC.2000",
-				"title": "CDC 2000 (2 - 20 years)"
+				"title": "CDC 2000 (2 - 20 years)",
+				"prefixes": ["CDC.2000 2-5years", "CDC.2000 2-20years"]
 			}
 		]
 	}
