@@ -1,0 +1,29 @@
+{
+  "gender" : 1,
+  "source" : "http:\/\/www.who.int\/childgrowth\/standards\/cht_wfa_boys_p_2_5.pdf",
+  "areas" : [
+    {
+      "axes" : {
+        "x" : {
+          "to" : 60,
+          "dataType" : "age",
+          "unit" : "age.month",
+          "from" : 24
+        },
+        "y" : {
+          "to" : 24.6,
+          "dataType" : "bodyweight",
+          "unit" : "weight.kilogram",
+          "from" : 8.4
+        }
+      },
+      "type" : "plot",
+      "rect" : "{{0.1316744,0.1487521},{0.7178568,0.6496132}}",
+      "statsSource" : "WHO.2006"
+    }
+  ],
+  "sourceName" : "World Health Organization",
+  "sourceAcronym" : "WHO",
+  "name" : "Boys 2 - 5 years",
+  "description" : "Boys 2 - 5 years (weight for age)"
+}

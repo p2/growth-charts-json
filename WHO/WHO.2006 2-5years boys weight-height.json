@@ -1,0 +1,29 @@
+{
+  "gender" : 1,
+  "source" : "http:\/\/www.who.int\/childgrowth\/standards\/cht_wfh_boys_p_2_5.pdf",
+  "areas" : [
+    {
+      "axes" : {
+        "x" : {
+          "to" : 120,
+          "dataType" : "bodylength",
+          "unit" : "length.centimeter",
+          "from" : 65
+        },
+        "y" : {
+          "to" : 28,
+          "dataType" : "bodyweight",
+          "unit" : "weight.kilogram",
+          "from" : 5
+        }
+      },
+      "type" : "plot",
+      "rect" : "{{0.1316744,0.1487521},{0.7176071,0.6496132}}",
+      "statsSource" : "WHO.2006"
+    }
+  ],
+  "sourceName" : "World Health Organization",
+  "sourceAcronym" : "WHO",
+  "name" : "Boys 2 - 5 years",
+  "description" : "Boys 2 - 5 years (weight for height)"
+}

@@ -1,0 +1,29 @@
+{
+  "gender" : 2,
+  "source" : "http:\/\/www.who.int\/childgrowth\/standards\/cht_hfa_girls_p_2_5.pdf",
+  "areas" : [
+    {
+      "axes" : {
+        "x" : {
+          "to" : 60,
+          "dataType" : "age",
+          "unit" : "age.month",
+          "from" : 24
+        },
+        "y" : {
+          "to" : 120,
+          "dataType" : "bodylength",
+          "unit" : "length.centimeter",
+          "from" : 77
+        }
+      },
+      "type" : "plot",
+      "rect" : "{{0.1316744,0.1487521},{0.7178568,0.6498232}}",
+      "statsSource" : "WHO.2006"
+    }
+  ],
+  "sourceName" : "World Health Organization",
+  "sourceAcronym" : "WHO",
+  "name" : "Girls 2 - 5 years",
+  "description" : "Girls 2 - 5 years (height for age)"
+}

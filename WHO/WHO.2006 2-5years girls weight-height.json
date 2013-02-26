@@ -1,0 +1,29 @@
+{
+  "gender" : 2,
+  "source" : "http:\/\/www.who.int\/childgrowth\/standards\/cht_wfh_girls_p_2_5.pdf",
+  "areas" : [
+    {
+      "axes" : {
+        "x" : {
+          "to" : 120,
+          "dataType" : "bodylength",
+          "unit" : "length.centimeter",
+          "from" : 65
+        },
+        "y" : {
+          "to" : 29,
+          "dataType" : "bodyweight",
+          "unit" : "weight.kilogram",
+          "from" : 5
+        }
+      },
+      "type" : "plot",
+      "rect" : "{{0.1317179,0.1489621},{0.7176034,0.649498}}",
+      "statsSource" : "WHO.2006"
+    }
+  ],
+  "sourceName" : "World Health Organization",
+  "sourceAcronym" : "WHO",
+  "name" : "Girls 2 - 5 years",
+  "description" : "Girls 2 - 5 years (weight for height)"
+}

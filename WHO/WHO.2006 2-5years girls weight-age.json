@@ -1,0 +1,29 @@
+{
+  "gender" : 2,
+  "source" : "http:\/\/www.who.int\/childgrowth\/standards\/cht_wfa_girls_p_2_5.pdf",
+  "areas" : [
+    {
+      "axes" : {
+        "x" : {
+          "to" : 60,
+          "dataType" : "age",
+          "unit" : "age.month",
+          "from" : 24
+        },
+        "y" : {
+          "to" : 25.6,
+          "dataType" : "bodyweight",
+          "unit" : "weight.kilogram",
+          "from" : 8.4
+        }
+      },
+      "type" : "plot",
+      "rect" : "{{0.1316744,0.1489621},{0.7178568,0.649498}}",
+      "statsSource" : "WHO.2006"
+    }
+  ],
+  "sourceName" : "World Health Organization",
+  "sourceAcronym" : "WHO",
+  "name" : "Girls 2 - 5 years",
+  "description" : "Girls 2 - 5 years (weight for age)"
+}

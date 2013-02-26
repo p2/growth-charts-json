@@ -10,6 +10,11 @@
 				"prefixes": ["WHO.2006"]
 			},
 			{
+				"name": "WHO.2006",
+				"title": "WHO 2006 (2 - 5 years)",
+				"prefixes": ["WHO.2006 2-5years"]
+			},
+			{
 				"name": "WHO.2007-school",
 				"title": "WHO 2007 (5 - 19 years)",
 				"prefixes": ["WHO.2007 5-10years", "WHO.2007 5-19years"]
