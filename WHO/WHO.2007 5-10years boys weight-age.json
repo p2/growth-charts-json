@@ -19,7 +19,7 @@
       },
       "type" : "plot",
       "rect" : "{{0.1352016,0.1468957},{0.7059216,0.665569}}",
-      "statsSource" : "WHO.2007"
+      "statsSource" : "WHO.2006"
     }
   ],
   "sourceName" : "World Health Organization",
