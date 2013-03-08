@@ -7,7 +7,7 @@
 			{
 				"name": "WHO.2006-infants",
 				"title": "WHO 2006 (0 - 24 months)",
-				"prefixes": ["WHO.2006"]
+				"prefixes": ["WHO.2006 0-24months"]
 			},
 			{
 				"name": "WHO.2006",
