@@ -5,7 +5,7 @@
     {
       "axes" : {
         "x" : {
-          "to" : 22,
+          "to" : 21,
           "dataType" : "age",
           "unit" : "age.year",
           "from" : 2
