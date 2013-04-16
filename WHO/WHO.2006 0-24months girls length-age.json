@@ -1,0 +1,30 @@
+{
+  "gender" : 2,
+  "source" : "http:\/\/www.who.int\/childgrowth\/standards\/cht_lfa_girls_p_0_2.pdf",
+  "areas" : [
+    {
+      "statsSource" : "WHO.2006",
+      "axes" : {
+        "x" : {
+          "to" : 24,
+          "dataType" : "age",
+          "unit" : "age.month",
+          "from" : 0
+        },
+        "y" : {
+          "to" : 95,
+          "dataType" : "bodylength",
+          "unit" : "length.centimeter",
+          "from" : 45
+        }
+      },
+      "type" : "plot",
+      "rect" : "{{0.1316921,0.1488762},{0.7178938,0.6496771}}",
+      "page" : 1
+    }
+  ],
+  "sourceName" : "World Health Organization",
+  "sourceAcronym" : "WHO",
+  "name" : "Girls 0 - 24 months",
+  "description" : "Girls 0 - 24 months (length for age)"
+}

@@ -1,0 +1,30 @@
+{
+  "gender" : 1,
+  "source" : "http:\/\/www.who.int\/childgrowth\/standards\/cht_wfa_boys_p_0_2.pdf",
+  "areas" : [
+    {
+      "statsSource" : "WHO.2006",
+      "axes" : {
+        "x" : {
+          "to" : 24,
+          "dataType" : "age",
+          "unit" : "age.month",
+          "from" : 0
+        },
+        "y" : {
+          "to" : 16,
+          "dataType" : "bodyweight",
+          "unit" : "weight.kilogram",
+          "from" : 2
+        }
+      },
+      "type" : "plot",
+      "rect" : "{{0.131697,0.1744208},{0.7179183,0.59843}}",
+      "page" : 1
+    }
+  ],
+  "sourceName" : "World Health Organization",
+  "sourceAcronym" : "WHO",
+  "name" : "Boys 0 - 24 months",
+  "description" : "Boys 0 - 24 months (weight for age)"
+}

@@ -1,0 +1,30 @@
+{
+  "gender" : 1,
+  "source" : "http:\/\/www.who.int\/childgrowth\/standards\/second_set\/cht_hcfa_boys_z_0_2.pdf",
+  "areas" : [
+    {
+      "statsSource" : "WHO.2006",
+      "axes" : {
+        "x" : {
+          "to" : 24,
+          "dataType" : "age",
+          "unit" : "age.month",
+          "from" : 0
+        },
+        "y" : {
+          "to" : 52,
+          "dataType" : "headcircumference",
+          "unit" : "length.centimeter",
+          "from" : 32
+        }
+      },
+      "type" : "plot",
+      "rect" : "{{0.1340845,0.1628198},{0.7113621,0.6488826}}",
+      "page" : 1
+    }
+  ],
+  "sourceName" : "World Health Organization",
+  "sourceAcronym" : "WHO",
+  "name" : "Boys 0 - 24 months",
+  "description" : "Boys 0 - 24 months (head for age)"
+}

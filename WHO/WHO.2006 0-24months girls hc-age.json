@@ -1,0 +1,30 @@
+{
+  "gender" : 2,
+  "source" : "http:\/\/www.who.int\/childgrowth\/standards\/second_set\/cht_hcfa_girls_p_0_2.pdf",
+  "areas" : [
+    {
+      "statsSource" : "WHO.2006",
+      "axes" : {
+        "x" : {
+          "to" : 24,
+          "dataType" : "age",
+          "unit" : "age.month",
+          "from" : 0
+        },
+        "y" : {
+          "to" : 51,
+          "dataType" : "headcircumference",
+          "unit" : "length.centimeter",
+          "from" : 31
+        }
+      },
+      "type" : "plot",
+      "rect" : "{{0.1351027,0.1646761},{0.7114784,0.6475977}}",
+      "page" : 1
+    }
+  ],
+  "sourceName" : "World Health Organization",
+  "sourceAcronym" : "WHO",
+  "name" : "Girls 0 - 24 months",
+  "description" : "Girls 0 - 24 months (head for age)"
+}
