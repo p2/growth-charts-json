@@ -18,6 +18,11 @@ The format of choice is **JSON** and one JSON file defines areas on one source f
 **Read the full [documentation]**.
 
 An experimental Mac App that reads and writes these formats [is available here][helper].
+A Python script that downloads all PDF files belonging to the JSON files is included and can be used as follows to download all PDF files into an existing directory `PDF`:
+
+```bash
+python download_pdf.py PDF
+```
 
 
 Statistics Sources
