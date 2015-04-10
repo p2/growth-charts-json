@@ -1,0 +1,289 @@
+{
+  "gender": 1,
+  "source": "http://www.cdc.gov/growthcharts/data/set1clinical/cj41c021.pdf",
+  "areas": [
+    {
+      "fontSize": 12,
+      "dataType": "patient.record_id",
+      "type": "data",
+      "rect": "{{0.798,0.921},{0.167,0.018}}",
+      "page": 1
+    },
+    {
+      "dataType": "patient.name",
+      "type": "data",
+      "rect": "{{0.639,0.941},{0.326,0.018}}",
+      "page": 1
+    },
+    {
+      "statsSource": "CDC.2000",
+      "outline": "{0.0,-0.082};{0.8,0.58};{1.0,0.58};{1.0,1.0};{0.525,1.0};{0.525,0.754};{0.0,0.754}",
+      "axes": {
+        "x": {
+          "to": 20,
+          "dataType": "age",
+          "unit": "age.year",
+          "from": 2
+        },
+        "y": {
+          "to": 196,
+          "dataType": "bodylength",
+          "unit": "length.centimeter",
+          "from": 75
+        }
+      },
+      "type": "plot",
+      "rect": "{{0.1785,0.2635},{0.6313,0.6166}}",
+      "page": 1
+    },
+    {
+      "statsSource": "CDC.2000",
+      "outline": "{0.0,0.0};{1.0,0.0};{1.0,1.0};{0.8,1.0};{0.0,0.2}",
+      "axes": {
+        "x": {
+          "to": 20,
+          "dataType": "age",
+          "unit": "age.year",
+          "from": 2
+        },
+        "y": {
+          "to": 110,
+          "dataType": "bodyweight",
+          "unit": "weight.kilogram",
+          "from": 10
+        }
+      },
+      "type": "plot",
+      "rect": "{{0.1785,0.1105},{0.6313,0.51}}",
+      "page": 1
+    },
+    {
+      "areas": [
+        {
+          "type": "measurementset",
+          "areas": [
+            {
+              "type": "data",
+              "dataType": "date",
+              "rect": "{{0,0},{0.195,1}}"
+            },
+            {
+              "type": "data",
+              "dataType": "age",
+              "rect": "{{0.2,0},{0.195,1}}"
+            },
+            {
+              "type": "data",
+              "dataType": "bodyweight",
+              "rect": "{{0.4,0},{0.195,1}}"
+            },
+            {
+              "type": "data",
+              "dataType": "bodylength",
+              "rect": "{{0.598,0},{0.205,1}}"
+            },
+            {
+              "type": "data",
+              "dataType": "bmi",
+              "rect": "{{0.805,0},{0.195,1}}"
+            }
+          ],
+          "rect": "{{0,0.86},{1,0.14}}"
+        },
+        {
+          "type": "measurementset",
+          "areas": [
+            {
+              "type": "data",
+              "dataType": "date",
+              "rect": "{{0,0},{0.195,1}}"
+            },
+            {
+              "type": "data",
+              "dataType": "age",
+              "rect": "{{0.2,0},{0.195,1}}"
+            },
+            {
+              "type": "data",
+              "dataType": "bodyweight",
+              "rect": "{{0.4,0},{0.195,1}}"
+            },
+            {
+              "type": "data",
+              "dataType": "bodylength",
+              "rect": "{{0.598,0},{0.205,1}}"
+            },
+            {
+              "type": "data",
+              "dataType": "bmi",
+              "rect": "{{0.805,0},{0.195,1}}"
+            }
+          ],
+          "rect": "{{0,0.72},{1,0.14}}"
+        },
+        {
+          "type": "measurementset",
+          "areas": [
+            {
+              "type": "data",
+              "dataType": "date",
+              "rect": "{{0,0},{0.195,1}}"
+            },
+            {
+              "type": "data",
+              "dataType": "age",
+              "rect": "{{0.2,0},{0.195,1}}"
+            },
+            {
+              "type": "data",
+              "dataType": "bodyweight",
+              "rect": "{{0.4,0},{0.195,1}}"
+            },
+            {
+              "type": "data",
+              "dataType": "bodylength",
+              "rect": "{{0.598,0},{0.205,1}}"
+            },
+            {
+              "type": "data",
+              "dataType": "bmi",
+              "rect": "{{0.805,0},{0.195,1}}"
+            }
+          ],
+          "rect": "{{0,0.58},{1,0.14}}"
+        },
+        {
+          "type": "measurementset",
+          "areas": [
+            {
+              "type": "data",
+              "dataType": "date",
+              "rect": "{{0,0},{0.195,1}}"
+            },
+            {
+              "type": "data",
+              "dataType": "age",
+              "rect": "{{0.2,0},{0.195,1}}"
+            },
+            {
+              "type": "data",
+              "dataType": "bodyweight",
+              "rect": "{{0.4,0},{0.195,1}}"
+            },
+            {
+              "type": "data",
+              "dataType": "bodylength",
+              "rect": "{{0.598,0},{0.205,1}}"
+            },
+            {
+              "type": "data",
+              "dataType": "bmi",
+              "rect": "{{0.805,0},{0.195,1}}"
+            }
+          ],
+          "rect": "{{0,0.43},{1,0.14}}"
+        },
+        {
+          "type": "measurementset",
+          "areas": [
+            {
+              "type": "data",
+              "dataType": "date",
+              "rect": "{{0,0},{0.195,1}}"
+            },
+            {
+              "type": "data",
+              "dataType": "age",
+              "rect": "{{0.2,0},{0.195,1}}"
+            },
+            {
+              "type": "data",
+              "dataType": "bodyweight",
+              "rect": "{{0.4,0},{0.195,1}}"
+            },
+            {
+              "type": "data",
+              "dataType": "bodylength",
+              "rect": "{{0.598,0},{0.205,1}}"
+            },
+            {
+              "type": "data",
+              "dataType": "bmi",
+              "rect": "{{0.805,0},{0.195,1}}"
+            }
+          ],
+          "rect": "{{0,0.295},{1,0.14}}"
+        },
+        {
+          "type": "measurementset",
+          "areas": [
+            {
+              "type": "data",
+              "dataType": "date",
+              "rect": "{{0,0},{0.195,1}}"
+            },
+            {
+              "type": "data",
+              "dataType": "age",
+              "rect": "{{0.2,0},{0.195,1}}"
+            },
+            {
+              "type": "data",
+              "dataType": "bodyweight",
+              "rect": "{{0.4,0},{0.195,1}}"
+            },
+            {
+              "type": "data",
+              "dataType": "bodylength",
+              "rect": "{{0.598,0},{0.205,1}}"
+            },
+            {
+              "type": "data",
+              "dataType": "bmi",
+              "rect": "{{0.805,0},{0.195,1}}"
+            }
+          ],
+          "rect": "{{0,0.15},{1,0.14}}"
+        },
+        {
+          "type": "measurementset",
+          "areas": [
+            {
+              "type": "data",
+              "dataType": "date",
+              "rect": "{{0,0},{0.195,1}}"
+            },
+            {
+              "type": "data",
+              "dataType": "age",
+              "rect": "{{0.2,0},{0.195,1}}"
+            },
+            {
+              "type": "data",
+              "dataType": "bodyweight",
+              "rect": "{{0.4,0},{0.195,1}}"
+            },
+            {
+              "type": "data",
+              "dataType": "bodylength",
+              "rect": "{{0.598,0},{0.205,1}}"
+            },
+            {
+              "type": "data",
+              "dataType": "bmi",
+              "rect": "{{0.805,0},{0.195,1}}"
+            }
+          ],
+          "rect": "{{0,0},{1,0.14}}"
+        }
+      ],
+      "type": "measurementsetcollection",
+      "rect": "{{0.095,0.762},{0.416,0.095}}",
+      "page": 1
+    }
+  ],
+  "sourceName": "CDC",
+  "sourceAcronym": "CDC",
+  "name": "Boys 2 - 20 years",
+  "description": "Boys 2 - 20 years (height and weight for age)"
+}

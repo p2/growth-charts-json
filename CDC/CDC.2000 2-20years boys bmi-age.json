@@ -1,11 +1,25 @@
 {
   "gender" : 1,
-  "source" : "http:\/\/www.cdc.gov\/growthcharts\/data\/set1\/chart15.pdf",
+  "source" : "http:\/\/www.cdc.gov\/growthcharts\/data\/set1clinical\/cj41c023.pdf",
   "areas" : [
     {
+      "fontSize" : 12,
+      "dataType" : "patient.record_id",
+      "type" : "data",
+      "rect" : "{{0.798,0.921},{0.167,0.018}}",
+      "page" : 1
+    },
+    {
+      "dataType" : "patient.name",
+      "type" : "data",
+      "rect" : "{{0.639,0.941},{0.326,0.018}}",
+      "page" : 1
+    },
+    {
+      "outline" : "{0.0,0.0};{1.0,0.0};{1.0,1.0};{0.668,1.0};{0.668,0.706};{0.0,0.706}",
       "axes" : {
         "x" : {
-          "to" : 21,
+          "to" : 20,
           "dataType" : "age",
           "unit" : "age.year",
           "from" : 2
@@ -14,12 +28,523 @@
           "to" : 36,
           "dataType" : "bmi",
           "unit" : "bmi.kilogram-per-square-meter",
-          "from" : 10
+          "from" : 11
         }
       },
       "type" : "plot",
-      "rect" : "{{0.148183,0.1191206},{0.7144631,0.7372839}}",
+      "rect" : "{{0.134,0.1552},{0.7197,0.718}}",
       "statsSource" : "CDC.2000"
+    },
+    {
+      "areas" : [
+        {
+          "type" : "measurementset",
+          "areas" : [
+            {
+              "type" : "data",
+              "dataType" : "date",
+              "rect" : "{{0,0},{0.125,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "age",
+              "rect" : "{{0.128,0},{0.112,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodyweight",
+              "rect" : "{{0.242,0},{0.134,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodylength",
+              "rect" : "{{0.378,0},{0.128,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bmi",
+              "rect" : "{{0.508,0},{0.132,1}}"
+            },
+            {
+              "type" : "text",
+              "dataType" : "comment",
+              "rect" : "{{0.643,0},{0.357,1}}"
+            }
+          ],
+          "rect" : "{{0,0},{1,0.071}}"
+        },
+        {
+          "type" : "measurementset",
+          "areas" : [
+            {
+              "type" : "data",
+              "dataType" : "date",
+              "rect" : "{{0,0},{0.125,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "age",
+              "rect" : "{{0.128,0},{0.112,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodyweight",
+              "rect" : "{{0.242,0},{0.134,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodylength",
+              "rect" : "{{0.378,0},{0.128,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bmi",
+              "rect" : "{{0.508,0},{0.132,1}}"
+            },
+            {
+              "type" : "text",
+              "dataType" : "comment",
+              "rect" : "{{0.643,0},{0.357,1}}"
+            }
+          ],
+          "rect" : "{{0,0.0722},{1,0.071}}"
+        },
+        {
+          "type" : "measurementset",
+          "areas" : [
+            {
+              "type" : "data",
+              "dataType" : "date",
+              "rect" : "{{0,0},{0.125,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "age",
+              "rect" : "{{0.128,0},{0.112,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodyweight",
+              "rect" : "{{0.242,0},{0.134,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodylength",
+              "rect" : "{{0.378,0},{0.128,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bmi",
+              "rect" : "{{0.508,0},{0.132,1}}"
+            },
+            {
+              "type" : "text",
+              "dataType" : "comment",
+              "rect" : "{{0.643,0},{0.357,1}}"
+            }
+          ],
+          "rect" : "{{0,0.1448},{1,0.071}}"
+        },
+        {
+          "type" : "measurementset",
+          "areas" : [
+            {
+              "type" : "data",
+              "dataType" : "date",
+              "rect" : "{{0,0},{0.125,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "age",
+              "rect" : "{{0.128,0},{0.112,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodyweight",
+              "rect" : "{{0.242,0},{0.134,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodylength",
+              "rect" : "{{0.378,0},{0.128,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bmi",
+              "rect" : "{{0.508,0},{0.132,1}}"
+            },
+            {
+              "type" : "text",
+              "dataType" : "comment",
+              "rect" : "{{0.643,0},{0.357,1}}"
+            }
+          ],
+          "rect" : "{{0,0.2156},{1,0.071}}"
+        },
+        {
+          "type" : "measurementset",
+          "areas" : [
+            {
+              "type" : "data",
+              "dataType" : "date",
+              "rect" : "{{0,0},{0.125,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "age",
+              "rect" : "{{0.128,0},{0.112,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodyweight",
+              "rect" : "{{0.242,0},{0.134,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodylength",
+              "rect" : "{{0.378,0},{0.128,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bmi",
+              "rect" : "{{0.508,0},{0.132,1}}"
+            },
+            {
+              "type" : "text",
+              "dataType" : "comment",
+              "rect" : "{{0.643,0},{0.357,1}}"
+            }
+          ],
+          "rect" : "{{0,0.288},{1,0.071}}"
+        },
+        {
+          "type" : "measurementset",
+          "areas" : [
+            {
+              "type" : "data",
+              "dataType" : "date",
+              "rect" : "{{0,0},{0.125,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "age",
+              "rect" : "{{0.128,0},{0.112,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodyweight",
+              "rect" : "{{0.242,0},{0.134,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodylength",
+              "rect" : "{{0.378,0},{0.128,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bmi",
+              "rect" : "{{0.508,0},{0.132,1}}"
+            },
+            {
+              "type" : "text",
+              "dataType" : "comment",
+              "rect" : "{{0.643,0},{0.357,1}}"
+            }
+          ],
+          "rect" : "{{0,0.358},{1,0.071}}"
+        },
+        {
+          "type" : "measurementset",
+          "areas" : [
+            {
+              "type" : "data",
+              "dataType" : "date",
+              "rect" : "{{0,0},{0.125,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "age",
+              "rect" : "{{0.128,0},{0.112,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodyweight",
+              "rect" : "{{0.242,0},{0.134,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodylength",
+              "rect" : "{{0.378,0},{0.128,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bmi",
+              "rect" : "{{0.508,0},{0.132,1}}"
+            },
+            {
+              "type" : "text",
+              "dataType" : "comment",
+              "rect" : "{{0.643,0},{0.357,1}}"
+            }
+          ],
+          "rect" : "{{0,0.428},{1,0.071}}"
+        },
+        {
+          "type" : "measurementset",
+          "areas" : [
+            {
+              "type" : "data",
+              "dataType" : "date",
+              "rect" : "{{0,0},{0.125,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "age",
+              "rect" : "{{0.128,0},{0.112,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodyweight",
+              "rect" : "{{0.242,0},{0.134,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodylength",
+              "rect" : "{{0.378,0},{0.128,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bmi",
+              "rect" : "{{0.508,0},{0.132,1}}"
+            },
+            {
+              "type" : "text",
+              "dataType" : "comment",
+              "rect" : "{{0.643,0},{0.357,1}}"
+            }
+          ],
+          "rect" : "{{0,0.5},{1,0.071}}"
+        },
+        {
+          "type" : "measurementset",
+          "areas" : [
+            {
+              "type" : "data",
+              "dataType" : "date",
+              "rect" : "{{0,0},{0.125,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "age",
+              "rect" : "{{0.128,0},{0.112,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodyweight",
+              "rect" : "{{0.242,0},{0.134,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodylength",
+              "rect" : "{{0.378,0},{0.128,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bmi",
+              "rect" : "{{0.508,0},{0.132,1}}"
+            },
+            {
+              "type" : "text",
+              "dataType" : "comment",
+              "rect" : "{{0.643,0},{0.357,1}}"
+            }
+          ],
+          "rect" : "{{0,0.574},{1,0.071}}"
+        },
+        {
+          "type" : "measurementset",
+          "areas" : [
+            {
+              "type" : "data",
+              "dataType" : "date",
+              "rect" : "{{0,0},{0.125,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "age",
+              "rect" : "{{0.128,0},{0.112,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodyweight",
+              "rect" : "{{0.242,0},{0.134,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodylength",
+              "rect" : "{{0.378,0},{0.128,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bmi",
+              "rect" : "{{0.508,0},{0.132,1}}"
+            },
+            {
+              "type" : "text",
+              "dataType" : "comment",
+              "rect" : "{{0.643,0},{0.357,1}}"
+            }
+          ],
+          "rect" : "{{0,0.643},{1,0.071}}"
+        },
+        {
+          "type" : "measurementset",
+          "areas" : [
+            {
+              "type" : "data",
+              "dataType" : "date",
+              "rect" : "{{0,0},{0.125,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "age",
+              "rect" : "{{0.128,0},{0.112,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodyweight",
+              "rect" : "{{0.242,0},{0.134,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodylength",
+              "rect" : "{{0.378,0},{0.128,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bmi",
+              "rect" : "{{0.508,0},{0.132,1}}"
+            },
+            {
+              "type" : "text",
+              "dataType" : "comment",
+              "rect" : "{{0.643,0},{0.357,1}}"
+            }
+          ],
+          "rect" : "{{0,0.718},{1,0.071}}"
+        },
+        {
+          "type" : "measurementset",
+          "areas" : [
+            {
+              "type" : "data",
+              "dataType" : "date",
+              "rect" : "{{0,0},{0.125,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "age",
+              "rect" : "{{0.128,0},{0.112,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodyweight",
+              "rect" : "{{0.242,0},{0.134,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodylength",
+              "rect" : "{{0.378,0},{0.128,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bmi",
+              "rect" : "{{0.508,0},{0.132,1}}"
+            },
+            {
+              "type" : "text",
+              "dataType" : "comment",
+              "rect" : "{{0.643,0},{0.357,1}}"
+            }
+          ],
+          "rect" : "{{0,0.786},{1,0.071}}"
+        },
+        {
+          "type" : "measurementset",
+          "areas" : [
+            {
+              "type" : "data",
+              "dataType" : "date",
+              "rect" : "{{0,0},{0.125,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "age",
+              "rect" : "{{0.128,0},{0.112,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodyweight",
+              "rect" : "{{0.242,0},{0.134,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodylength",
+              "rect" : "{{0.378,0},{0.128,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bmi",
+              "rect" : "{{0.508,0},{0.132,1}}"
+            },
+            {
+              "type" : "text",
+              "dataType" : "comment",
+              "rect" : "{{0.643,0},{0.357,1}}"
+            }
+          ],
+          "rect" : "{{0,0.857},{1,0.071}}"
+        },
+        {
+          "type" : "measurementset",
+          "areas" : [
+            {
+              "type" : "data",
+              "dataType" : "date",
+              "rect" : "{{0,0},{0.125,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "age",
+              "rect" : "{{0.128,0},{0.112,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodyweight",
+              "rect" : "{{0.242,0},{0.134,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bodylength",
+              "rect" : "{{0.378,0},{0.128,1}}"
+            },
+            {
+              "type" : "data",
+              "dataType" : "bmi",
+              "rect" : "{{0.508,0},{0.132,1}}"
+            },
+            {
+              "type" : "text",
+              "dataType" : "comment",
+              "rect" : "{{0.643,0},{0.357,1}}"
+            }
+          ],
+          "rect" : "{{0,0.93},{1,0.071}}"
+        }
+      ],
+      "type" : "measurementsetcollection",
+      "rect" : "{{0.07,0.6965},{0.543,0.189}}",
+      "page" : 1
     }
   ],
   "sourceName" : "CDC",
