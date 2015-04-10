@@ -1,0 +1,30 @@
+{
+  "gender" : 1,
+  "source" : "http:\/\/www.who.int\/childgrowth\/standards\/second_set\/cht_hcfa_boys_p_0_5.pdf",
+  "areas" : [
+    {
+      "statsSource" : "WHO.2006",
+      "axes" : {
+        "x" : {
+          "to" : 60,
+          "dataType" : "age",
+          "unit" : "age.month",
+          "from" : 0
+        },
+        "y" : {
+          "to" : 54,
+          "dataType" : "headcircumference",
+          "unit" : "length.centimeter",
+          "from" : 32
+        }
+      },
+      "type" : "plot",
+      "rect" : "{{0.135,0.146},{0.708,0.651}}",
+      "page" : 1
+    }
+  ],
+  "sourceName" : "World Health Organization",
+  "sourceAcronym" : "WHO",
+  "name" : "Boys 0 - 5 years",
+  "description" : "Boys 0 - 5 years (head for age)"
+}

@@ -1,0 +1,30 @@
+{
+  "gender" : 2,
+  "source" : "http:\/\/www.who.int\/childgrowth\/standards\/second_set\/cht_hcfa_girls_p_0_5.pdf",
+  "areas" : [
+    {
+      "statsSource" : "WHO.2006",
+      "axes" : {
+        "x" : {
+          "to" : 60,
+          "dataType" : "age",
+          "unit" : "age.month",
+          "from" : 0
+        },
+        "y" : {
+          "to" : 53,
+          "dataType" : "headcircumference",
+          "unit" : "length.centimeter",
+          "from" : 31
+        }
+      },
+      "type" : "plot",
+      "rect" : "{{0.135,0.1456},{0.708,0.6512}}",
+      "page" : 1
+    }
+  ],
+  "sourceName" : "World Health Organization",
+  "sourceAcronym" : "WHO",
+  "name" : "Girls 0 - 5 years",
+  "description" : "Girls 0 - 5 years (head for age)"
+}
