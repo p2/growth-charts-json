@@ -19,7 +19,7 @@ except Exception as e:
 	sys.exit(1)
 
 
-_json_dirs = ['CDC', 'WHO']
+_json_dirs = ['CDC', 'WHO', 'Preterm']
 
 
 if '__main__' == __name__:

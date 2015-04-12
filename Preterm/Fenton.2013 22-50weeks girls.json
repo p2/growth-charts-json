@@ -1,0 +1,53 @@
+{
+  "gender" : 2,
+  "source" : "http:\/\/ucalgary.ca\/fenton\/files\/fenton\/fenton2013growthchartgirls.pdf",
+  "areas" : [
+    {
+      
+    },
+    {
+      "outline" : "{0.0,0.0};{0.36,0.0};{1.0,0.7344};{1.0,1.0};{0.786,1.0};{0.0,0.282}",
+      "axes" : {
+        "x" : {
+          "to" : 50,
+          "dataType" : "gestationalage",
+          "unit" : "age.week",
+          "from" : 22
+        },
+        "y" : {
+          "to" : 45,
+          "dataType" : "headcircumference",
+          "unit" : "length.centimeter",
+          "from" : 15
+        }
+      },
+      "type" : "plot",
+      "rect" : "{{0.134,0.5286},{0.7584,0.2838}}",
+      "statsSource" : "Fenton.2013"
+    },
+    {
+	  "outline" : "{0.0,0.0};{1.0,0.0};{1.0,0.958};{0.36,0.642};{0.0,0.642}",
+      "axes" : {
+        "x" : {
+          "to" : 50,
+          "dataType" : "gestationalage",
+          "unit" : "age.week",
+          "from" : 22
+        },
+        "y" : {
+          "to" : 7,
+          "dataType" : "bodyweight",
+          "unit" : "weight.kilogram",
+          "from" : 0
+        }
+      },
+      "type" : "plot",
+      "rect" : "{{0.134,0.1035},{0.7584,0.661}}",
+      "statsSource" : "Fenton.2013"
+    }
+  ],
+  "sourceName" : "Fenton Preterm, University of Calgary",
+  "sourceAcronym" : "Fenton",
+  "name" : "Girls Preterm",
+  "description" : "Preterm girls, 22 - 50 weeks, (height, weight and head circumference for gestational age)"
+}
